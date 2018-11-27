@@ -13,5 +13,8 @@
     "testing"
   ],
   "author": "Fabio Carpinato <fabiocarpinato@outlook.it>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
