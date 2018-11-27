@@ -1,6 +1,4 @@
 /**
- * Helper function that uses memoization for the fibonacci calculation
- *
  * @param {number} value
  * @param {Array<number>} memo
  */
@@ -19,8 +17,6 @@ function helper(value, memo) {
 }
 
 /**
- * Calculates the fibonacci value for a given number
- *
  * @param {number} value
  */
 export function fibonacci(value) {
