@@ -1,17 +1,24 @@
 # Codig Interviews Exercises
+
 Personal suite of example exercises to practise for interviews
 
 ## List of examples
 
+1. String Reverse
+2. Fibonacci
+
 ## Run test suite
+
+Bash: `npm test`
 
 ## Author
 
 **Fabio Carpinato**
 
-* [github/fabiocarpinato](https://github.com/fbcarpinato)
+- [github/fabiocarpinato](https://github.com/fbcarpinato)
 
 ## License
 
-Copyright © 2018 [Fabio Carpinato](https://github.com/fbcarpinato)
-Released under the [MIT license](https://github.com/fbcarpinato/ci-examples/blob/master/LICENSE).
+Copyright © 2018 [Fabio Carpinato](https://github.com/fbcarpinato) Released
+under the
+[MIT license](https://github.com/fbcarpinato/ci-examples/blob/master/LICENSE).
