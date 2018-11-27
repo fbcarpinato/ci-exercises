@@ -1,0 +1,17 @@
+{
+  "name": "ci-exercises",
+  "version": "1.0.0",
+  "description": "personal suite of exercises for coding interviews",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "coding",
+    "interview",
+    "javascript",
+    "algorithms",
+    "testing"
+  ],
+  "author": "Fabio Carpinato <fabiocarpinato@outlook.it>",
+  "license": "MIT"
+}
