@@ -1,6 +1,4 @@
 /**
- * Returns a reversed version of the given string
- *
  * @param {string} string
  * @returns {string}
  */

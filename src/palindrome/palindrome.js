@@ -1,5 +1,4 @@
 /**
- *
  * @param {string} string
  */
 export function palindrone(string) {
