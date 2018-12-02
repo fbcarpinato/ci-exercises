@@ -3,12 +3,11 @@
  */
 export function reverseInteger(number) {
   let reversedNumber = number.toString();
-  const isNegative = reversedNumber.charAt(0) === '-';
-  reversedNumber = reversedNumber
+  const numberSign = Math.sign(number);
+  reversedNumber = +reversedNumber
     .split('')
     .reverse()
-    .join('');
-  return +(isNegative
-    ? '-' + reversedNumber.substring(0, reversedNumber.length - 1)
-    : reversedNumber);
+    .join('')
+    .substring(0, reversedNumber.length + numberSign);
+  return reversedNumber * numberSign;
 }

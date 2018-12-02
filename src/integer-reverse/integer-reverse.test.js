@@ -24,4 +24,8 @@ describe('reverseInteger', () => {
   it('should return -51', () => {
     expect(reverseInteger(-15)).toBe(-51);
   });
+
+  it('should return -90', () => {
+    expect(reverseInteger(-90)).toBe(-9);
+  });
 });
