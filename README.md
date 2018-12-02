@@ -11,6 +11,7 @@ Personal suite of example exercises to practise for interviews
 1. String Reverse
 2. Fibonacci
 3. Palindrome
+4. Integer Reverse
 
 ## Run test suite
 
